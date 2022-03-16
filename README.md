@@ -1,5 +1,5 @@
-<img src="./assets/movie-list.jpeg" width="50%" height="100">
-<img src="./assets/movie-details.jpeg" width="50%" height="100">
+<img src="./assets/movie-list.jpeg" width="50%" height="50%">
+<img src="./assets/movie-details.jpeg" width="50%" height="50%">
 
 ### APIs
 
