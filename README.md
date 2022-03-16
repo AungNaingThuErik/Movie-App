@@ -1,5 +1,5 @@
-![Fake Netflix: The Movie App](./assets/movie-list.jpeg = 250 X 250)
-![Fake Netflix: The Movie App](./assets/movie-details.jpeg = 250 X 250)
+![Fake Netflix: The Movie App](./assets/movie-list.jpeg =250x250)
+![Fake Netflix: The Movie App](./assets/movie-details.jpeg =250x250)
 ### APIs
 
 - [OMDb](http://www.omdbapi.com/)
