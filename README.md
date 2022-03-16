@@ -1,7 +1,6 @@
-![Fake Netflix: The Movie App](./assets/movie-list.jpeg | width=50)
-![Fake Netflix: The Movie App](./assets/movie-details.jpeg | width=50)
+<img src="./assets/movie-list.jpeg" width="100" height="100">
+<img src="./assets/movie-details.jpeg" width="100" height="100">
 
-<img src="./assets/movie-details.jpeg" width="50" height="50">
 ### APIs
 
 - [OMDb](http://www.omdbapi.com/)
