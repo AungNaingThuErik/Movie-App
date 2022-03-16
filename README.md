@@ -1,5 +1,5 @@
-![Fake Netflix: The Movie App](./assets/movie-list.png)
-![Fake Netflix: The Movie App](./assets/movie-details.png)
+![Fake Netflix: The Movie App](./assets/movie-list.jpeg)
+![Fake Netflix: The Movie App](./assets/movie-details.jpeg)
 ### APIs
 
 - [OMDb](http://www.omdbapi.com/)
