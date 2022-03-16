@@ -13,7 +13,7 @@ As others projects, you will need some requirements to run:
 
 - [Node.js](https://nodejs.org/) (latest)
 - [Expo](https://expo.io/) (latest)
-- [Yarn](https://yarnpkg.com/) (latest)
+- [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (latest)
 
 #### How to run
 
