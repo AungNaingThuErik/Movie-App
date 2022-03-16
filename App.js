@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
    },
    poster:{
      width: '100%',
-     height: 300,
+     height: 400,
    },
    popup:{
     marginTop: 70,
@@ -157,6 +157,7 @@ const styles = StyleSheet.create({
     marginBottom: 5
   },
   closebtn:{
+    textAlign: 'center',
     padding: 20,
     fontSize: 16,
     fontWeight: '500',
